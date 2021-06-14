@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Keith Murray</title>
+    <link>https://kdmurray.com/tags/code/</link>
+    <description>Recent content in code on Keith Murray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>2006-{{ YEAR }} Keith Murray</copyright>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharpen the Saw or Something</title>
+      <link>https://kdmurray.com/blog/2018/07/sharpen-the-saw-or-something/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2018/07/sharpen-the-saw-or-something/</guid>
+      
+        <description>Writing software is something I&amp;rsquo;ve loved to do for a very long time. But a little over a decade ago I made some career choices that meant my day-to-day no longer involved the production of code. I became an amateur developer. Since then I&amp;rsquo;ve noodled around with things here and there, and have even managed to write some code that I or a small number of other people have used, but I find it hard to prioritize the time to do these things.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

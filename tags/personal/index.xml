@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Keith Murray</title>
+    <link>https://kdmurray.com/tags/personal/</link>
+    <description>Recent content in personal on Keith Murray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>2006-{{ YEAR }} Keith Murray</copyright>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Year of Self</title>
+      <link>https://kdmurray.com/blog/2019/01/year-of-self/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2019/01/year-of-self/</guid>
+      
+        <description>For the past couple of years I&amp;rsquo;ve eschewed the practice of the New Year&amp;rsquo;s Resolution in favour of broader goals or themes for the year. These have been helpful for me in providing an overall direction or guidepost for me as I work to make incremental improvements or changes throughout the year.
+Where I&amp;rsquo;ve been&amp;hellip; The first of these, &amp;ldquo;Year of Less&amp;rdquo;, helped me to de-clutter mentally and physically, as well as direct my efforts towards a few specific projects and tasks.</description>
+      
+    </item>
+    
+    <item>
+      <title>Agile Resolutions</title>
+      <link>https://kdmurray.com/blog/2018/12/agile-resolutions/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2018/12/agile-resolutions/</guid>
+      
+        <description>We&amp;rsquo;re coming up to the end of the year again. I&amp;rsquo;m already starting to see the conversations starting about one of my most hated holiday season traditions: New Year&amp;rsquo;s Resolutions.
+Why am I such a grinch about self improvement? Why be opposed to people making a change for the better? I&amp;rsquo;m not, and I&amp;rsquo;m not. It&amp;rsquo;s not the change, or even the resolution itself that I have problems with, it&amp;rsquo;s the &amp;ldquo;New Year&amp;rsquo;s&amp;rdquo; bit, and all of the associated issues that come with it.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
