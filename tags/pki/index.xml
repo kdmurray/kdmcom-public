@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pki on Keith Murray</title>
+    <link>https://kdmurray.com/tags/pki/</link>
+    <description>Recent content in pki on Keith Murray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/pki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Hardening Strategies</title>
+      <link>https://kdmurray.com/blog/2017/03/server-hardening-strategies/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/03/server-hardening-strategies/</guid>
+      
+        <description>Staying secure is a full-time gig. It doesn&amp;rsquo;t matter whether we&amp;rsquo;re talking a datacentre or your smartphone, there are always steps to be taken to keep your machines and your data as safe as possible. With the increasing popularity of virtualization for applications and services and the ability for people to &amp;ldquo;roll your own&amp;rdquo; cloud comes the need to secure those machines. This becomes increasingly challenging when you consider the fact that by their very nature these machines are constantly exposed to the Internet.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

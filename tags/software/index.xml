@@ -6,7 +6,6 @@
     <description>Recent content in software on Keith Murray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <copyright>2006-{{ YEAR }} Keith Murray</copyright>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WSL Manual Install</title>

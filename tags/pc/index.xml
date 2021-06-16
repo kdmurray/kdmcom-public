@@ -6,7 +6,6 @@
     <description>Recent content in pc on Keith Murray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <copyright>2006-{{ YEAR }} Keith Murray</copyright>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/pc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WSL Manual Install</title>
@@ -16,6 +15,20 @@
       <guid>https://kdmurray.com/blog/2019/07/wsl-manual-install/</guid>
       
         <description>If you happen to be in a situation where you would like to take advantage of Microsoft Windows subsystem for Linux but don&amp;rsquo;t have access to the Microsoft store, there is hope. The one largest caveat is that you need to have permission to install the windows subsystem for, without that the rest of this advice is useless, but once you have done that and rebooted your machine you&amp;rsquo;re ready to move on to the next phase which is find yourself some Linux.</description>
+      
+    </item>
+    
+    <item>
+      <title>Think Different(ly)</title>
+      <link>https://kdmurray.com/blog/2017/02/think-differently/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/02/think-differently/</guid>
+      
+        <description>In a recent conversation with [Knightwise][kw] we were musing that it doesn&amp;rsquo;t seem that it&amp;rsquo;s very long since we were both ragging on Dave to get off Windows and get a Mac. Today we&amp;rsquo;re both seriously entertaining the possibility that our next primary computing device might be running an OS from Redmond. What changed? Has Windows gotten that much better?
+Yes. It&amp;rsquo;s undeniably better.
+But we&amp;rsquo;re also different.
+And Apple is different.</description>
       
     </item>
     

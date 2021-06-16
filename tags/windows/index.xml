@@ -6,7 +6,6 @@
     <description>Recent content in windows on Keith Murray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <copyright>2006-{{ YEAR }} Keith Murray</copyright>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WSL Manual Install</title>
@@ -16,6 +15,43 @@
       <guid>https://kdmurray.com/blog/2019/07/wsl-manual-install/</guid>
       
         <description>If you happen to be in a situation where you would like to take advantage of Microsoft Windows subsystem for Linux but don&amp;rsquo;t have access to the Microsoft store, there is hope. The one largest caveat is that you need to have permission to install the windows subsystem for, without that the rest of this advice is useless, but once you have done that and rebooted your machine you&amp;rsquo;re ready to move on to the next phase which is find yourself some Linux.</description>
+      
+    </item>
+    
+    <item>
+      <title>Analogue Journey Part 1: Digital Catalyst</title>
+      <link>https://kdmurray.com/blog/2017/09/analogue-journey-part-1-digital-catalyst/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/09/analogue-journey-part-1-digital-catalyst/</guid>
+      
+        <description>About four months ago I declared bankruptcy &amp;ndash; of a sort. It was a kind of technological bankruptcy. This is the the tale of that decision but to find its roots I need to take you back to a time before I&amp;rsquo;d come to this realization. A time when, for me, technology could solve all of my problems. This goes back years &amp;ndash; though I&amp;rsquo;m not sure how many at this point.</description>
+      
+    </item>
+    
+    <item>
+      <title>Getting Started With Hyper-V on Windows 10</title>
+      <link>https://kdmurray.com/blog/2017/05/getting-started-with-hyper-v-on-windows-10/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/05/getting-started-with-hyper-v-on-windows-10/</guid>
+      
+        <description>I&amp;rsquo;ve recently moved to Windows 10 after about a decade swimming in the Apple Kool-aid. While I&amp;rsquo;ve not been away from Windows entirely (I use it at work) I haven&amp;rsquo;t spent any time exploring some of the newer technologies introduced by the Redmond crew in the last few years.
+Something that comes as a feature for the Pro and Enterprise versions of Windows 10 is Microsoft&amp;rsquo;s VM Hypervisor technology Hyper-V. If you&amp;rsquo;re not familiar with it, this is comparable to something like Oracle&amp;rsquo;s VirtualBox.</description>
+      
+    </item>
+    
+    <item>
+      <title>Think Different(ly)</title>
+      <link>https://kdmurray.com/blog/2017/02/think-differently/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/02/think-differently/</guid>
+      
+        <description>In a recent conversation with [Knightwise][kw] we were musing that it doesn&amp;rsquo;t seem that it&amp;rsquo;s very long since we were both ragging on Dave to get off Windows and get a Mac. Today we&amp;rsquo;re both seriously entertaining the possibility that our next primary computing device might be running an OS from Redmond. What changed? Has Windows gotten that much better?
+Yes. It&amp;rsquo;s undeniably better.
+But we&amp;rsquo;re also different.
+And Apple is different.</description>
       
     </item>
     

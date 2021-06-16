@@ -6,7 +6,6 @@
     <description>Recent content in linux on Keith Murray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <copyright>2006-{{ YEAR }} Keith Murray</copyright>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WSL Manual Install</title>
@@ -16,6 +15,17 @@
       <guid>https://kdmurray.com/blog/2019/07/wsl-manual-install/</guid>
       
         <description>If you happen to be in a situation where you would like to take advantage of Microsoft Windows subsystem for Linux but don&amp;rsquo;t have access to the Microsoft store, there is hope. The one largest caveat is that you need to have permission to install the windows subsystem for, without that the rest of this advice is useless, but once you have done that and rebooted your machine you&amp;rsquo;re ready to move on to the next phase which is find yourself some Linux.</description>
+      
+    </item>
+    
+    <item>
+      <title>Server Hardening Strategies</title>
+      <link>https://kdmurray.com/blog/2017/03/server-hardening-strategies/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/03/server-hardening-strategies/</guid>
+      
+        <description>Staying secure is a full-time gig. It doesn&amp;rsquo;t matter whether we&amp;rsquo;re talking a datacentre or your smartphone, there are always steps to be taken to keep your machines and your data as safe as possible. With the increasing popularity of virtualization for applications and services and the ability for people to &amp;ldquo;roll your own&amp;rdquo; cloud comes the need to secure those machines. This becomes increasingly challenging when you consider the fact that by their very nature these machines are constantly exposed to the Internet.</description>
       
     </item>
     
