@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wsl on K.D. Murray</title>
+    <link>https://kdmurray.com/tags/wsl/</link>
+    <description>Recent content in wsl on K.D. Murray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WSL Manual Install</title>
+      <link>https://kdmurray.com/blog/2019/07/wsl-manual-install/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2019/07/wsl-manual-install/</guid>
+      
+        <description>If you happen to be in a situation where you would like to take advantage of Microsoft Windows subsystem for Linux but don&amp;rsquo;t have access to the Microsoft store, there is hope. The one largest caveat is that you need to have permission to install the windows subsystem for, without that the rest of this advice is useless, but once you have done that and rebooted your machine you&amp;rsquo;re ready to move on to the next phase which is find yourself some Linux.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

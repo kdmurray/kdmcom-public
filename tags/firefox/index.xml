@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>firefox on K.D. Murray</title>
+    <link>https://kdmurray.com/tags/firefox/</link>
+    <description>Recent content in firefox on K.D. Murray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 30 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://kdmurray.com/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivaldi Chrome Reimagined</title>
+      <link>https://kdmurray.com/blog/2017/03/vivaldi-chrome-reimagined/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdmurray.com/blog/2017/03/vivaldi-chrome-reimagined/</guid>
+      
+        <description>For several years I&amp;rsquo;ve been wanting to make the switch to Chrome from Firefox, but the lack of a couple of key plugins has held me back. One of these was the way that windowed plugins were handled initially (the popup for LastPass in Chrome was hideous, but that&amp;rsquo;s no longer an issue.)
+The bigger issue for me was the lack of a good vertical tabs plugin for Chrome. I&amp;rsquo;ve tried several tabs but none of them seem to work the way I&amp;rsquo;ve gotten used to with the venerable Tree Style Tabs in Firefox.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
